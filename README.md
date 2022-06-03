@@ -5,7 +5,9 @@
 ### OR
 ## 🔵 Go to my [linkedin](https://www.linkedin.com/in/salvatore-milone/) profile
 
+<br/>
 <img  height="35px" src="./img/tool.svg" />
+<br/>
 
 
 <a href="https://code.visualstudio.com/" target="_blank" ><img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" /></a>
