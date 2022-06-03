@@ -4,7 +4,6 @@
 ## 🔴 Visit my [website](https://salvatoremilone.github.io/) 
 ### OR
 ## 🔵 Go to my [linkedin](https://www.linkedin.com/in/salvatore-milone/) profile
-<hr>
 
 ## 👨🏻‍💻Languages and Tools:
 
@@ -17,3 +16,6 @@
 <a href="https://vuejs.org/" target="_blank" ><img align="left" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1184px-Vue.js_Logo_2.svg.png" /></a>
 <a href="https://sass-lang.com/" target="_blank" ><img align="left" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Sass_Logo_Color.svg/1200px-Sass_Logo_Color.svg.png" /></a>
 <a href="https://getbootstrap.com/" target="_blank" ><img align="left" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1200px-Bootstrap_logo.svg.png" /></a>
+<a href="https://nodejs.org/it/" target="_blank" ><img align="left" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Node.js_logo.svg/1280px-Node.js_logo.svg.png" /></a>
+<img align="left" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/260px-PHP-logo.svg.png" />
+<a href="https://laravel.com/" target="_blank" ><img align="left" height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1969px-Laravel.svg.png" /></a>
