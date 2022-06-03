@@ -38,4 +38,4 @@
 <br/>
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalvatoreMilone)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalvatoreMilone&hide=contribs,prs,issues,stars&count_private=true&show_icons=true&bg_color=90,#00c0d1,#00598c&title_color=#fff)](https://github.com/anuraghazra/github-readme-stats)
