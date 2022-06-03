@@ -1,11 +1,11 @@
 <img  height="50px" src="./img/name.svg" />
 <br />
 
-## 🔴 Visit my [website](https://salvatoremilone.github.io/) 
+## 🔷 Visit my [website](https://salvatoremilone.github.io/) 
 ### OR
 ## 🔵 Go to my [linkedin](https://www.linkedin.com/in/salvatore-milone/) profile
 
-## 👨🏻‍💻<img  height="35px" src="./img/tool.svg" />:
+<img  height="35px" src="./img/tool.svg" />
 
 
 <a href="https://code.visualstudio.com/" target="_blank" ><img height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" /></a>
