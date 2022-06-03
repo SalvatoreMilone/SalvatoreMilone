@@ -1,11 +1,10 @@
-### Hello, i'm Salvatore
+# Hello, i'm Salvatore
 <br />
 
 ## 🔴 Visit my [website](https://salvatoremilone.github.io/) 
-or
+### OR
 ## 🔵 Go to my [linkedin](https://www.linkedin.com/in/salvatore-milone/) profile
 
-<br />
 ## 👨🏻‍💻Languages and Tools:
 <hr>
 
