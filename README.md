@@ -32,3 +32,10 @@
 <br/>
 <a href="https://www.adobe.com/" target="_blank" ><img  height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/100px-Adobe_Illustrator_CC_icon.svg.png" /></a>
 <a href="https://www.adobe.com/" target="_blank" ><img  height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/100px-Adobe_Photoshop_CC_icon.svg.png" /></a>
+
+
+<br/>
+<br/>
+<br/>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SalvatoreMilone)](https://github.com/anuraghazra/github-readme-stats)
