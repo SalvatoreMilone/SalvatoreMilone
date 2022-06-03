@@ -1,4 +1,4 @@
-# Hello, i'm Salvatore
+# Hello, i'm <span style="color= #7d1519"> Salvatore </span>
 <br />
 
 ## 🔴 Visit my [website](https://salvatoremilone.github.io/) 
