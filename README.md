@@ -14,8 +14,6 @@
 <br/>
 <br/>
 <br/>
-
-#### 💻
 <img  height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/260px-HTML5_logo_and_wordmark.svg.png" />
 <img  height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/100px-CSS3_logo_and_wordmark.svg.png" />
 <img  height="50px" src="https://upload.wikimedia.org/wikipedia/commons/7/73/Javascript-736400_960_720.png" />
@@ -30,6 +28,5 @@
 <br/>
 <br/>
 <br/>
-#### 🗯
 <a href="https://www.adobe.com/" target="_blank" ><img  height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/100px-Adobe_Illustrator_CC_icon.svg.png" /></a>
 <a href="https://www.adobe.com/" target="_blank" ><img  height="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/100px-Adobe_Photoshop_CC_icon.svg.png" /></a>
